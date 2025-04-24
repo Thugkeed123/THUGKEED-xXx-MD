@@ -25,26 +25,21 @@ Dont forget to fork 🍴 & st po😇
 
 <p align="center">
   <a href="https://https://github.com/Thugkeed123"><img
-                                                     title="Developer" src=https://files.fm/f/58336p3328
-svg?style=for-the-badge&logo=github"https://github.com/Thugkeed123"/></a>
-</p>
-
-<div align="center">
-  
+                                                                
+<div align="center">  
 [![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VbAaddE3mFYETAiho63t)
 </div>
 
- <p align="center"><img src="https://files.fm/f/g6cfr7nwjp" alt="Thugkeed :: Visitor's Count" old_src="https://profile-counter.glitch.me{Thugkeed}}/count.svg" /></p>
-
+ <p align="center"><img src="https://files.catbox.moe/jtrryr.jpg"
 
 <p align="center">
-<a href="https://https://files.fm/f/g6cfr7nwjp"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=darkpink"></a> &nbsp;
+<a href="https://github.com/Thugkeed123/THUGKEED-xXx-MD/edit/main/README.md"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=darkpink"></a> &nbsp;
   <img src="https://komarev.com/ghpvc/?username=THUGKEED-MD&label=VIEWS&style=flat-square&color=blue" />
 </p>
 </p> 
 
 <palign="center">
-  <a href="https://https://github.com/Thugkeed/THUGKEED-MD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v2.0-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://https://github.com/Thugkeed123"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v2.0-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
 
 
@@ -54,7 +49,44 @@ svg?style=for-the-badge&logo=github"https://github.com/Thugkeed123"/></a>
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-  <a href="https://https://github.com/Thugkeed/THUGKEED-MD"><img title="THUGKEED-MD" src="https://img.shields.io/badge/FORK-THUGKEED-MDh?color=blue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/Thugkeed123"><img title="THUGKEED-MD" src="https://img.shields.io/badge/FORK-THUGKEED-MDh
+### <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/keyicon.gif?raw=true" width="25"/> 2. Get Session ID
+  
+<div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 3px solid #00ffff;">
+  
+--- 
+  > **⚠️ OPTION ONE**
+  <a href='https://subzero-docs.vercel.app' target="_blank">
+    <img src='https://img.shields.io/badge/PAIR_CODE_1-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
+  </a></br>
+  
+  <div style="height: 10px;"></div>
+  
+  > **⚠️ OPTION TWO**
+  <a href='https://zaynixxd.biz.id/' target="_blank">
+    <img src='https://img.shields.io/badge/PAIR_CODE_2-FF00AA?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
+  </a>
+  
+  ---
+  <p style="color: #aaaaaa; font-size: 12px; margin-top: 10px;">
+    <img src="https://github.com/https://github.com/Thugkeed123/THUGKEED-xXx-MD/blob/main/assets/warning.gif?raw=true" width="15"/> 
+    Connection issues may require VPN activation
+  </p>
+</div>
+
+</div>
+
+<div align="center">
+  <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/techwave.gif?raw=true" width="80%"/>
+</div>
+
+## 🚀 DEPLOYMENT OPTIONS
+
+<div align="center">
+  <table>
+    <tr>
+      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/mrfrankofcc/SUBZERO-MD/tree/main" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
+      <td><a href="https://talkdrove.com/share-bot/11" target="_blank"><img src="https://img.shields.io/badge/TalkDrove-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>?color=blue&style=for-the-badge&logo=stackshare"></a>
   
 ### 2. Get Session ID 
 
