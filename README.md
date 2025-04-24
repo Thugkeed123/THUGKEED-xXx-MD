@@ -25,10 +25,11 @@ Dont forget to fork 🍴 & st po😇
 
 <p align="center">
   <a href="https://https://github.com/Thugkeed123"><img
-                                                                
-<div align="center">  
+   <div align="center">
+  
 [![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VbAaddE3mFYETAiho63t)
 </div>
+                                                             
 
  <p align="center"><img src="https://files.catbox.moe/jtrryr.jpg"
 
@@ -37,9 +38,9 @@ Dont forget to fork 🍴 & st po😇
   <img src="https://komarev.com/ghpvc/?username=THUGKEED-MD&label=VIEWS&style=flat-square&color=blue" />
 </p>
 </p> 
-
-<palign="center">
-  <a href="https://https://github.com/Thugkeed123"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v2.0-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
+<p align="center">
+<a 
+href="https://https://github.com/Thugkeed123"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v2.0-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
 
 
