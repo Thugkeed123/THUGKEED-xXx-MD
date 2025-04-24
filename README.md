@@ -50,7 +50,7 @@ href="https://https://github.com/Thugkeed123"><img title="Release" src="https://
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-  <a href="https://github.com/Thugkeed123"><img title="THUGKEED-MD" src="https://img.shields.io/badge/FORK-THUGKEED-MDh
+  <a href="https://github.com/Thugkeed123"><img title="THUGKEED-MD" src="https://img.shields.io/badge/forks-THUGKEED-MD
 ### <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/keyicon.gif?raw=true" width="25"/> 2. Get Session ID
   
 <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 3px solid #00ffff;">
