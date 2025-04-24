@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #00ffff, 0 0 20px #0088ff;">𝙏𝙃𝙐𝙂𝙆𝙀𝙀𝘿[𝙆.𝙊.𝙁]𓅓</h1>
+  <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #00ffff, 0 0 20px #0088ff;">𝙏𝙃𝙐𝙂𝙆𝙀𝙀𝘿𓅓</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=THUGKEED-MD-V4.0" alt="Typing SVG" /></a>
   </p>
   
@@ -17,16 +17,16 @@ Dont forget to fork 🍴 & st po😇
 
 --- 
 
-<a><img src='https://files.catbox.moe/t8emin.jpg'/></a>
+<a><img src='https://files.catbox.moe/jtrryr.jpg'/></a>
 
 <a><img src='https://files.catbox.moe/t8emin.jpg'/></a>
 
 ***
 
 <p align="center">
-  <a href="https://github.com/Thugkeed
-  c:"><img title="Developer" src=https://files.fm/f/58336p3328
-svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://https://github.com/Thugkeed123"><img
+                                                     title="Developer" src=https://files.fm/f/58336p3328
+svg?style=for-the-badge&logo=github"https://github.com/Thugkeed123"/></a>
 </p>
 
 <div align="center">
