@@ -1,13 +1,13 @@
 {
-  "name": "SUBZERO-MD",
-  "description": "Whiskey Sockets Baileys Whatsapp bot By Mr Frank",
+  "name": "THUGKEED-xXx-MD",
+  "description": "Whiskey Sockets Baileys Whatsapp bot By Thugkeed",
   "logo": "https://i.postimg.cc/zv76KffW/IMG-20250115-WA0020.jpg",
-  "keywords": ["SUBZERO-MD"],
+  "keywords": ["THUGKEED-xXx-MD"],
   "success_url": "/",
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put your Subzero session-id here.",
+      "description": "Put your  session-id here.",
       "required": true,
       "value": ""
     },
@@ -25,7 +25,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "SUBZERO-MD"
+      "value": "THUGKEED-xXx-MD"
     }
   },
   "buildpacks": [
