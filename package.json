@@ -1,12 +1,12 @@
 {
-  "name": "SUBZERO-MD",
+  "name": "THUGKEED-MD",
   "version": "3.2.0",
   "description": "THE BEST BOT IN THE UNIVERSE",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name SUBZERO-MD",
-    "stop": "pm2 stop SUBZERO-MD",
-    "restart": "pm2 restart SUBZERO-MD"
+    "stop": "pm2 stop THUGKEED-MD",
+    "restart": "pm2 restart THUGKEED-MD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",
