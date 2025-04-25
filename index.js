@@ -9,12 +9,12 @@ $$\   $$ |$$ |  $$ |$$ |  $$ | $$  _/   $$   ____|$$ |      $$ |  $$ |
 \$$$$$$  |\$$$$$$  |$$$$$$$  |$$$$$$$$\ \$$$$$$$\ $$ |      \$$$$$$  |
  \______/  \______/ \_______/ \________| \_______|\__|       \______/
 
-- Project Name : SubZero MD
-- Creator      : Darrell Mucheri ( Mr Frank OFC )
-- Repo         : https//github.com/mrfrank-ofc/SUBZERO-MD
+- Project Name : THUGKEED-xXx-MD
+- Creator      : Darrell Mucheri (THUGKEED)
+- Repo         : https://github.com/Thugkeed123/THUGKEED-xXx-MD
 - Support      : wa.me/18062212660
-- Channel      : https://whatsapp.com/channel/0029VagQEmB002T7MWo3Sj1D
-- Release Date : 15 Dececmber 2024 12.01 AM
+- Channel      : https://whatsapp.com/channel/0029VafHDxj1iUxerILRN12d/7998
+- Release Date : 25 April 2025 12.01 AM
 */
 
 
