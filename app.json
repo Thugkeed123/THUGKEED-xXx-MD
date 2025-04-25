@@ -1,0 +1,37 @@
+{
+  "name": "SUBZERO-MD",
+  "description": "Whiskey Sockets Baileys Whatsapp bot By Mr Frank",
+  "logo": "https://i.postimg.cc/zv76KffW/IMG-20250115-WA0020.jpg",
+  "keywords": ["SUBZERO-MD"],
+  "success_url": "/",
+  "stack": "container",
+  "env": {
+    "SESSION_ID": {
+      "description": "Put your Subzero session-id here.",
+      "required": true,
+      "value": ""
+    },
+    "PREFIX": {
+      "description": "paste your bot prefix note! Don't apply null prefix.",
+      "required": false,
+      "value": "."
+    },
+  
+    "OWNER_NUMBER": {
+      "description": "put the owner number for bot.",
+      "required": false,
+      "value": "263719646303"
+    },
+    "BOT_NAME": {
+      "description": "Type here the bot name.",
+      "required": false,
+      "value": "SUBZERO-MD"
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+    }
+  ],
+  "stack": "heroku-24"
+}
